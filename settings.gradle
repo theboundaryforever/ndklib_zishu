@@ -1,0 +1,2 @@
+include ':app', ':zhishu'
+rootProject.name='My Application'
